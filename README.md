@@ -1,1 +1,3 @@
-# MAP
+We refer to them often while we travel or have used them in schools and in our daily lives for information, but what exactly is a map?
+
+A map is a visual representation of an entire area or a part of an area, typically represented on a flat surface. The work of a map is to illustrate specific and detailed features of a particular area, most frequently used to illustrate geography. There are many kinds of maps; static, two-dimensional, three-dimensional, dynamic and even interactive. Maps attempt to represent various things, like political boundaries, physical features, roads, topography, population, climates, natural resources and economic activities.
